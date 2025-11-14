@@ -59,3 +59,8 @@ Similar to the texture optimizer, you can toggle the "Include files from Package
 ## CrazyGames
 
 We can also help your game become popular on the web. You can submit your game on CrazyGames [here](https://developer.crazygames.com/).
+
+## Examples
+
+we use such assets optimized tech to reduce the package size as more as possible, and keep a good game play experience at the same time. If you check it on [Arcadeh5 Games](https://www.arcadeh5.com/).
+
