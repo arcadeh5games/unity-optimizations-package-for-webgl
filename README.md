@@ -76,6 +76,10 @@ We use such assets optimized tech to reduce the package size as more as possible
 
 Easily export your Unity game as a Chrome extension with minimal setup! This asset streamlines the entire process, letting you package and deploy your game directly to the Chrome Web Store. You could get this free unity asset from [unity asset store](https://assetstore.unity.com/packages/tools/utilities/build-games-for-browser-extension-308254).
 
+Here are some webgl games that for chrome extension. Yeach, they are definitely smooth and experience well.  
+- [Zigzag Driving](https://chromewebstore.google.com/detail/zigzag-driving/niikfbmfdkbljedepaoigbciipdccadp)
+- [Double Crash](https://chromewebstore.google.com/detail/double-crash/bibdbnjngkpfaaelfcckehdpdibgipli)
+
 ![Build Games for Browser Extension](Docs/build-games-for-browser-extension.webp)
 
 ## GameMonetize WebGL Template
