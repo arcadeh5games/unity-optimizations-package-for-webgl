@@ -1,13 +1,13 @@
 # Unity WebGL Optimizer for Web and Chrome Extension
 
-What contain:
+What contains here:
 - Unity WebGL Optimizer 
 - Build Games for Browser Extension.
 - Responsible WebGL Templates from GameMonetize
 
 Unity WebGL Optimizer part forks form unity-optimizations-package-for-webgl by [CrazyGames](https://developer.crazygames.com/). 
 
-Unity assets or game asset optimaztion is a big topic. You can not expect the magic will happen just with one simple click. For example, compress texture will get nothing obvious improvment some time. You may need to consider reduce texture size, and disable mipmaps. This will cause some visual quality lose, but it will reduce the package size very obviously. The same apply to other asset type, mesh (reduce triangles), audio (convert to low quality audio file with lots of compression). So I re-light the legacy project and keep some asset inspect function by hand, and give deeper view of what your game assets need change. You need to keep somehow balance between game package size and the quality. This process will repeat and again and again until you find the right point. 
+Unity assets or game asset optimaztion is a big topic. You can not expect the magic will happen just with one simple click. For example, compress texture will get nothing obvious improvment some time. You may need to consider reduce texture size, and disable mipmaps. This will cause some visual quality lose, but it will reduce the package size very obviously. The same apply to other asset type, mesh (reduce triangles), audio (convert to low quality audio file with lots of compression). So I re-light the legacy project and keep some asset inspect function by hand, and give deeper view of what your game assets need change. You need to keep somehow balance between game package size and the quality. This process will repeat and again and again until you find the right point.  For this reason, i re-lit this no longer maintained project.
 
 
 ## Unity WebGL Optimizer
@@ -70,7 +70,7 @@ Similar to the texture optimizer, you can toggle the "Include files from Package
 
 ### Unity WebGL Game Examples - Arcade H5 Online Games
 
-We use such assets optimized tech to reduce the package size as more as possible, and keep a good game play experience at the same time. You can check and play games on [online arcade html5 Games](https://www.arcadeh5.com/).
+We use such assets optimized tech to reduce the package size as more as possible, and keep a good game play experience at the same time. You could play around on [online arcade html5 Games](https://www.arcadeh5.com/) and see how it works.
 
 ## Build Games for Browser Extension
 
