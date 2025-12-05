@@ -1,6 +1,6 @@
 # Unity WebGL Optimizer for Web and Chrome Extension
 
-This project re-light unity-optimizations-package-for-webgl from [CrazyGames](https://developer.crazygames.com/). The latest version will automatically apply the best settings. 
+This project re-light unity-optimizations-package-for-webgl from [CrazyGames](https://developer.crazygames.com/). 
 
 Unity assets or game asset optimaztion is a big topic. You can not expect the magic will happen just with one simple click. For example, compress texture will get nothing obvious improvment some time. You may need to consider reduce texture size, and disable mipmaps. This will cause some visual quality lose, but it will reduce the package size very obviously. The same apply to other asset type, mesh (reduce triangles), audio (convert to low quality audio file with lots of compression). So I re-light the legacy project and keep some asset inspect function by hand, and give deeper view of what your game assets need change. You need to keep somehow balance between game package size and the quality. This process will repeat and again and again until you find the right point.
 
@@ -73,4 +73,5 @@ We use such assets optimized tech to reduce the package size as more as possible
 
 Easily export your Unity game as a Chrome extension with minimal setup! This asset streamlines the entire process, letting you package and deploy your game directly to the Chrome Web Store. You could get this free unity asset from [unity asset store](https://assetstore.unity.com/packages/tools/utilities/build-games-for-browser-extension-308254).
 
-![Build Games for Browser Extension](Doc/build-games-for-browser-extension.webp)
+![Build Games for Browser Extension](Docs/build-games-for-browser-extension.webp)
+
