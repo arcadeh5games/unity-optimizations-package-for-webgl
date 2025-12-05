@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "GAME_NAME",
+  "version": "BUILD_VERSION",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "GAME_NAME"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+  "sandbox": {
+    "pages": [ "index.html" ]
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+
+}
